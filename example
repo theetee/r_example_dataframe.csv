@@ -1,0 +1,7 @@
+id <- 1:5
+customer_names <- c("Taeyeon", "Jessica", "Tiffany", "Sunny", "Sooyoung")
+customer_ages <- c(24, 25, 26, 27, 25)
+customer_country <- c("Korea", "USA", "Hong Kong", "China", "Japan")
+
+df <-data.frame(id, customer_names, customer_ages, customer_country)
+ 
